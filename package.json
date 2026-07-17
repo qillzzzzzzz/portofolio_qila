@@ -1,0 +1,16 @@
+{
+  "name": "personal-portfolio-aqilah",
+  "version": "1.0.0",
+  "description": "Clean, cute, and modern personal portfolio for Aqilah Littaniya Hartono",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemailer": "^9.0.3"
+  },
+  "author": "Aqilah Littaniya Hartono",
+  "license": "ISC"
+}
